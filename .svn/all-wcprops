@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svnroot/angrytux/!svn/ver/1
+END
+testie.py~
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/angrytux/!svn/ver/1/testie.py~
+END
+testie.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/angrytux/!svn/ver/1/testie.py
+END
+angrytux.py~
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/angrytux/!svn/ver/2/angrytux.py~
+END
+angrytux.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/angrytux/!svn/ver/2/angrytux.py
+END
+svnradd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/angrytux/!svn/ver/1/svnradd.sh
+END
+README~
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/angrytux/!svn/ver/2/README~
+END
+svn-commit.tmp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/angrytux/!svn/ver/2/svn-commit.tmp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svnroot/angrytux/!svn/ver/2/README
+END

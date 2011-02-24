@@ -1,0 +1,12 @@
+Added files
+--This line, and those below, will be ignored--
+
+AM   testie.py~
+AM   testie.py
+AM   angrytux.py~
+AM   angrytux.py
+A    data
+AM   data/angrytux.jpg
+AM   data/angrytux.png
+AM   data/angrytux.gif
+AM   svnradd.sh
