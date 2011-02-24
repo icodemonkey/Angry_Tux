@@ -1,13 +1,13 @@
 #!/bin/bash
-# SVN Recursive file/directory adder
+# GIT Recursive file/directory adder
 #
-# Usage: ./svnradd.sh yourfile/dir
+# Usage: ./gitradd.sh yourfile/dir
 #
 # Joel Leclerc
 
 if [ -f "$1" ]
 then
-	svn add $1
+	git add $1
 fi
 
 function rdirlsaddsvn() {
@@ -18,7 +18,7 @@ function rdirlsaddsvn() {
 			if [ -d "$i" ]
 			then
 				echo -n "Adding directory $i... "
-				svn add $i > /dev/null 2>&1
+				git add $i > /dev/null 2>&1
 				if [ $? -eq 0 ]
 				then
 					echo "OK"
@@ -28,7 +28,7 @@ function rdirlsaddsvn() {
 				rdirlsaddsvn $i
 			else
 				echo -n "Adding file $i... "
-				svn add $i > /dev/null 2>&1
+				git add $i > /dev/null 2>&1
 				if [ $? -eq 0 ]
 				then
 					echo "OK"
