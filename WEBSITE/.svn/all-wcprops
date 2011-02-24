@@ -3,9 +3,21 @@ svn:wc:ra_dav:version-url
 V 36
 /svnroot/angrytux/!svn/ver/5/WEBSITE
 END
+angrytux.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/angrytux/!svn/ver/6/WEBSITE/angrytux.jpg
+END
+angrytuxmap.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/angrytux/!svn/ver/6/WEBSITE/angrytuxmap.html
+END
 index.html
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/svnroot/angrytux/!svn/ver/5/WEBSITE/index.html
+/svnroot/angrytux/!svn/ver/6/WEBSITE/index.html
 END

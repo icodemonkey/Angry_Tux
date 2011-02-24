@@ -21,3 +21,9 @@ svn:wc:ra_dav:version-url
 V 46
 /svnroot/angrytux/!svn/ver/1/data/angrytux.gif
 END
+angrytux.jpg.map
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/angrytux/!svn/ver/6/data/angrytux.jpg.map
+END

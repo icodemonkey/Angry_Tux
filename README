@@ -17,7 +17,7 @@
 
 Open up a Terminal (Applications->Accessories->Terminal) window, and type in it:
 
-  sudo apt-get install python python-tk python-imaging
+  sudo apt-get install python python-tk python-imaging python-imaging-tk
   chmod 0555 angrytux.py
 
 
